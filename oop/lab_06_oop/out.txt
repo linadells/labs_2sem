@@ -1,0 +1,14 @@
+Culinder 
+Hight:3
+Rasius:4
+Area:175.84
+Volume:175.84
+
+Cube 
+Length:5
+Area:150
+Volume:150Sphere 
+
+Rasius:4
+Area:200.96
+Volume:200.96
