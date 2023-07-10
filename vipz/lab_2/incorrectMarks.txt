@@ -1,0 +1,13 @@
+Hnatestka Olha 9 2 2005 55 5 5
+Biduk Olena 06 9 2005 3 3 3 
+Kyziv Nazarii 24 4 2005 4 3 5
+Voitsistka Iryna 19 11 2005 5 5 5 
+Lutvynets Viktoria 2 7 2005 3 5 4
+Bezuglii Yurii 19 11 2004 3 3 3
+Holybovska Kateryna 19 12 2004 5 4 5
+Shumriv Anna 12 1 2005 5 4 5
+Savchii Artyr 1 4 2005 5 4 5
+Sheleshko Ilona 2 7 2005 3 2 3
+Mostova Sofia 10 3 2005 5 4 5
+Hots Svitlana 21 3 2005 3 5 4
+end

@@ -1,0 +1,6 @@
+Biduk Olena 06 9 2005 3 3 3 
+Bezuglii Yurii 19 11 2004 3 3 3
+Sheleshko Ilona 2 7 2005 3 2 3
+Mostova Sofia 10 3 2005 3 2 3
+Hots Svitlana 21 3 2005 3 2 3
+end
